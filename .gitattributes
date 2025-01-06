@@ -1,0 +1,2 @@
+vijay key.pem -text
+*.gitattributes text eol=lf
